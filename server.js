@@ -10,7 +10,8 @@ const responseTime = require('response-time') //adds response time to http heade
 
 const app = express()
 
-process.loadEnvFile() //puts stuff from .env into process.env
+//NEEDED for localhost. but can't be there for render
+//process.loadEnvFile() //puts stuff from .env into process.env
 
 // adds the time that the server spent thinking to the header of http responses sent to the client
 app.use(responseTime())
