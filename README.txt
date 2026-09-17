@@ -1,5 +1,12 @@
 Frank's Illustrious Calculator Mk. II
-<RENDER LINK>
+Render link:
+https://a3-frank-santen.onrender.com
+
+Notice of lateness: Yesterday, I knew I was gonna be submitting this late. I asked Charlie 
+Roberts whether I could have the rest of the night to finish the project instead of submitting 
+at 2pm, and he said that was okay. Unfortunately, I didn't finish yesterday night, and I'm turning
+this in late. Well, it was already gonna be late, but an okay amount of late, but this is a day 
+later than the late that was okayed, but hopefully it's still fine?
 
 This project was a modification of my A2 project, making it work with Express and MongoDB. 
 User accounts were added to give individual users different histories and data, and MongoDB 
